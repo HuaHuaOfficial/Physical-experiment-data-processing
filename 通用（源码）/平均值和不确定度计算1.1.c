@@ -1,4 +1,4 @@
-/*1.1版本新增计算完成后不立即退出，而是课选择是否计算其他数据*/
+/*1.1版本新增计算完成后不立即退出，而是可以选择是否计算其他数据*/
 #include<stdio.h>
 #include<math.h>
 float ua(float a[],float t,int n)
