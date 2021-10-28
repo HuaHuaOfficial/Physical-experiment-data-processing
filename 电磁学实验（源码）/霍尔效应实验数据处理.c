@@ -2,10 +2,10 @@
 int main()
 {
     int d,i=1;
+    while(i==1){
     printf("欢迎来到霍尔效应实验数据处理程序v1.1\n");
     printf("1>进入程序\n2>关于\n输入其他值退出\n");
     scanf("%d",&d);
-    while(i==1){
     switch (d)
         {
             case 1:{
